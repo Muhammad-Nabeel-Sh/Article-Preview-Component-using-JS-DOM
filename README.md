@@ -26,21 +26,21 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Layout](/Screenshots/Desktop_Capture.png)
+![Desktop Layout](/Screenshots/Desktop_Capture.png)  
 Desktop Layout (1440 px)  
 
-![Desktop Layout](/Screenshots/Desktop_Active_Capture.png)
+![Desktop Layout](/Screenshots/Desktop_Active_Capture.png)  
 Desktop Active State (1440 px) 
 
-![Mobile Layout](/Screenshots/Mobile_Capture.png)
+![Mobile Layout](/Screenshots/Mobile_Capture.png)  
 Mobile Layout (375 px)  
 
-![Mobile Layout](/Screenshots/Mobile_Active_Capture.png)
+![Mobile Layout](/Screenshots/Mobile_Active_Capture.png)  
 Mobile Hover State (375 px)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github repository](https://github.com/Muhammad-Nabeel-Sh/Article-Preview-Component-using-JS-DOM)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
