@@ -41,7 +41,7 @@ Mobile Hover State (375 px)
 ### Links
 
 - Solution URL: [github repository](https://github.com/Muhammad-Nabeel-Sh/Article-Preview-Component-using-JS-DOM)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://muhammad-nabeel-sh.github.io/Article-Preview-Component-using-JS-DOM/)
 
 ## My process
 
